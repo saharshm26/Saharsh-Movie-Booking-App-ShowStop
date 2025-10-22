@@ -1,0 +1,66 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+
+#thefirstlayout{
+	-fx-background-image:url("https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ef/cf/59/efcf59c5-35ce-a5b0-3e69-6b703a7acdaf/24UMGIM31255.rgb.jpg/600x600bf-60.jpg");
+	-fx-background-repeat:stretch ;
+	-fx-background-size: 700 700;
+	-fx-background-position: center center; 
+}
+#citylabel{
+	-fx-text-fill: white;
+	-fx-font-size:20.0;
+	-fx-font-family:Fantasy;
+	-fx-font-weight:bold;
+	-fx-font-style:oblique;
+}
+#fallcitylabel{
+	-fx-font-size:20.0;
+}
+#IFcitylabel{
+	-fx-font-size:20.0;
+}
+#furioscitylabel{
+	-fx-font-size:20.0;
+}
+#apecitylabel{
+	-fx-font-size:20.0;	
+}
+#garcitylabel{
+	-fx-font-size:20.0;
+}
+#apelayout{
+	-fx-background-image:url("https://m.media-amazon.com/images/M/MV5BZGI4NTEwNTAtZDcwMi00MDkxLTg1OGYtNTZmMzE3ZDljNzVlXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_FMjpg_UX1000_.jpg");
+	-fx-background-repeat:stretch;
+	-fx-background-size:700 700;
+	-fx-background-position:center center;
+}
+#mahi{
+	-fx-background-image:url("https://assets.gadgets360cdn.com/pricee/assets/product/202405/Mr_and_Mrs_Mahi_1715166390.jpg");
+	-fx-background-repeat:stretch ;
+	-fx-background-size: 700 700;
+	-fx-background-position: center center;
+}
+#catlayout{
+	-fx-background-image:url("https://c8.alamy.com/comp/2WYY1R4/the-garfield-movie-2024-directed-by-mark-dindal-and-starring-hannah-waddingham-samuel-l-jackson-and-chris-pratt-garfield-meets-his-long-lost-father-vic-and-along-with-odie-leave-their-pampered-life-to-attempt-a-high-stakes-heist-us-one-sheet-poster-editorial-use-only-credit-bfa-sony-pictures-releasing-2WYY1R4.jpg");
+	-fx-background-repeat:stretch ;
+	-fx-background-size: 700 700;
+	-fx-background-position:, center center;
+}
+#furioslayout{
+	-fx-background-image:url("https://f4.bcbits.com/img/a2405142781_65");
+	-fx-background-repeat:stretch ;
+	-fx-background-size: 700 700;
+	-fx-background-position: center center;
+}
+#falllayout{
+	-fx-background-image:url("https://c8.alamy.com/comp/2W9PYPX/the-fall-guy-2024-directed-by-david-leitch-and-starring-hannah-waddingham-ryan-gosling-and-emily-blunt-a-down-and-out-stuntman-must-find-the-missing-star-of-his-ex-girlfriends-blockbuster-film-us-advance-poster-editorial-use-only-credit-bfa-universal-pictures-2W9PYPX.jpg");
+	-fx-background-repeat:stretch;
+	-fx-background-size: 700 700;
+	-fx-background-position:center;
+}
+#iflayout{
+	-fx-background-image:url("https://preview.redd.it/official-poster-for-john-krasinskis-if-v0-tw5oyb3262sc1.jpeg?auto=webp&s=50cd7d22bc0400d4f050e6e89525e5ea9f8abf53");
+	-fx-background-repeat:stretch ;
+	-fx-background-size:700 700;
+	-fx-background-position:center center;
+}
